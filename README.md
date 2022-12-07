@@ -12,5 +12,5 @@ With the recent support added to custom components, implementing this component 
 
 ## Attributes
 
-Maximum (Days after today): Number of days after the current date to limit selection to.  Enter 0 to make the current date the last date that can be selected.
-Minimum (Days before today): Number of days before the current date to limit the selection to.  Enter 0 to make the current date the first date that can be selected.
+- Maximum (Days after today): Number of days after the current date to limit selection to.  Enter 0 to make the current date the last date that can be selected.
+- Minimum (Days before today): Number of days before the current date to limit the selection to.  Enter 0 to make the current date the first date that can be selected.
