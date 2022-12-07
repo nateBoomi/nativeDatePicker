@@ -6,5 +6,6 @@ A Boomi Flow input component using the browser's native Date picker to save to D
 
 ## Easy Installation
 With the recent support added to custom components, implementing this component is easier than ever! 
-	1. Import the demo flow using token gDfEbVkfoR3Dxpg8ugxvECFYUtO2e4CV65mmvj5UTAdaaIBLUWeHdZux9OWATsjP
-	2. Congratulations!  You now have access to the Native Date Picker component in your tenant
+
+1. Import the demo flow using token gDfEbVkfoR3Dxpg8ugxvECFYUtO2e4CV65mmvj5UTAdaaIBLUWeHdZux9OWATsjP
+2. Congratulations!  You now have access to the Native Date Picker component in your tenant
